@@ -1,1 +1,0 @@
-Gp Gp PI3K Akt/PKB Akt/PKB Akt/PKB Akt/PKB GSK-3beta GSK-3beta GSK-3beta Presenilin-1 Bax Blk Casp-9 3Tau cAMP PKA ERK1/2 CREB NFT APP A-beta-plaque Syn_gr_nd_rgn,PI3K cAMP Akt/PKB GSK-3beta Bax Blk Casp-9 Presenilin-1 g-secretase 3Tau APP NFT NFT NFT NFT PKA ERK1/2 CREB Syn_gr_nd_rgn Cog_deficits A-beta-plaque Cog_deficits Cog_deficits
