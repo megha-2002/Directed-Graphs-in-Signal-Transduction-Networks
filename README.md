@@ -10,4 +10,4 @@ DATA
 
 3.GPCRs Signal Transduction Network
 
-4.Retina of Mice Signal Transduction Network
+4.DEGs Signal Transduction Network
